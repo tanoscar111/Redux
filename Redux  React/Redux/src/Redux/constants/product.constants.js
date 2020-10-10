@@ -1,0 +1,1 @@
+export const GET_PRODUCT_LIST="GET_PRODUCT_LIST"//constant 1
